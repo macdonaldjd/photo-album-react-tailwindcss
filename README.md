@@ -8,4 +8,5 @@ Steps to run this locally:
 4. Go to localhost:3000 and you should have a running version of the app! 
 
 Enjoy (:
+
 ![reactTailwindPhotoAlbum1920](https://user-images.githubusercontent.com/59983598/152256515-1dab9ac5-a35f-411a-8ceb-ecef74bc8aaf.jpg)
